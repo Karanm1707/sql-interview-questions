@@ -1,4 +1,4 @@
-SQL Case Study | New vs Repeat Customers – Real-World E-commerce Scenario
+**SQL Case Study | New vs Repeat Customers – Real-World E-commerce Scenario**
 
 🧠 Scenario:
 
